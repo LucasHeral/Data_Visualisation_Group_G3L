@@ -5,7 +5,7 @@ The dashboard is available online with the following link:
 
 https://public.tableau.com/views/GroupG3L-RealestateKingCounty/KingCountyRealEstate?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link 
 
-The data folder countains two csv: 
+Two csv with the data used: 
   - One with the original data collected on kaggle here: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction 
   - One with the data cleaned. 
 
